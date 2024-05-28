@@ -1,2 +1,2 @@
-core: https://github.com/jasal82/metabuild.git
-python: https://github.com/jasal82/cconfig.git
+module1: https://github.com/jasal82/module1.git
+module2: https://github.com/jasal82/module2.git
